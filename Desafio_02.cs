@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Desafio_01
+namespace Desafio_02
 {
     class Program
     {
